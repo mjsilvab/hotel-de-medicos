@@ -1,5 +1,5 @@
 
-# cadrasto de ala 
+# cadrasto de quartos do hotel
 
 **como** gerente hospitalar,  
 **quero** cadrastar as informações de reserva
