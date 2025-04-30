@@ -1,6 +1,6 @@
 
 # cadrasto de quartos 
 
-**como** gerente hospitalar,  
-**quero** cadrastar as informações de reserva
-**para** cinseguir gerenciar a estrutura do holtel hospitalar.
+**Como** recepcionista,
+**quero** visualizar em tempo real a disponibilidade dos quartos,
+**para** agilizar o processo de check-in e evitar reservas duplicadas.

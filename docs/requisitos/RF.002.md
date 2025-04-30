@@ -1,6 +1,6 @@
 
 # cadrasto de resevas 
 
-**como** gerente hospitalar,  
-**quero** cadrastar as informações de reserva
-**para** cinseguir gerenciar a estrutura do holtel hospitalar.
+**Como** gerente do hotel,
+**uero** cadastrar, editar e excluir reservas de hóspedes,
+ **para** evitar erros de digitação e garantir o controle correto das reservas.

@@ -1,6 +1,7 @@
 
-# cadrasto de quartos fazios 
+# cadrasto dos status de ocupação de quartos
 
-**como** gerente hospitalar,  
-**quero** cadrastar as informações de reserva
-**para** cinseguir gerenciar a estrutura do holtel hospitalar.
+**Como** recepcionista do hotel,
+**quero** registrar check-ins e check-outs no sistema,
+**para** manter atualizado o status de ocupação dos quartos.
+

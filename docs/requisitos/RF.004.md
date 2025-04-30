@@ -1,6 +1,6 @@
 
 # cadrasto de ospedes 
 
-**como** gerente hospitalar,  
-**quero** cadrastar as informações de reserva
-**para** cinseguir gerenciar a estrutura do holtel hospitalar.
+**Como** colaborador responsável pelo atendimento,
+**quero** acessar rapidamente as informações dos clientes
+**para** prestar um atendimento mais eficiente e personalizado.
