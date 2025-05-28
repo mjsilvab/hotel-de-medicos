@@ -1,4 +1,4 @@
-# maria
+# Hotel de Medicos
 
 Em um hotel médio, o processo de gerenciamento de reservas, check-ins, e controle de
 quartos está sendo feito de forma manual, com registros em papel e planilhas. Esse
