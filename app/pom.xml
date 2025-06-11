@@ -13,9 +13,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.ifrn</groupId>
-	<artifactId>hotel-de-medicos</artifactId>
+	<artifactId>hoteldemedicos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hotel-de-medicos</name>
+	<name>hoteldemedicos</name>
 
 	<properties>
 		<java.version>17</java.version>
