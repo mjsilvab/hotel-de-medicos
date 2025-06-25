@@ -1,6 +1,5 @@
+# Cadastro de Quartos
 
-# cadrasto de quartos do hotel
-
-**como** gerente do hotel,  
-**quero** cadrastar as informações de reserva
-**para** cinseguir gerenciar a estrutura do holtel medico.
+**Como** gerente do hotel,  
+**quero** cadastrar os quartos disponíveis no sistema,  
+**para** gerenciar a estrutura física do hotel com mais organização.
