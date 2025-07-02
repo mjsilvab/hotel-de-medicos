@@ -10,11 +10,3 @@ CREATE TABLE quartos (
     -- Preço da diária
     status VARCHAR(20) DEFAULT 'disponível' -- "disponível", "ocupado", "manutenção"
 );
--- Selecionar todos os quartos cadastrados
-SELECT * FROM quartos;
-
--- Selecionar apenas os quartos disponíveis
-SELECT * FROM quartos WHERE status = 'disponível';
-
--- Selecionar apenas os quartos ocupados
-SELECT * FROM quartos WHERE status = 'ocupado';
