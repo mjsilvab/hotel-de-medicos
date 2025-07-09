@@ -1,5 +1,6 @@
-INSERT INTO disponibilidade_quartos (id_quarto, data, status) VALUES
-(1, '2025-07-01', 'disponível'),
-(2, '2025-07-01', 'ocupado'),
-(3, '2025-07-01', 'manutenção'),
-(1, '2025-07-02', 'ocupado');
+INSERT INTO quartos (numero, tipo, capacidade, preco, status) VALUES
+('101', 'Casal',     2, 150.00, 'disponível'),
+('102', 'Solteiro',  1, 100.00, 'ocupado'),
+('103', 'Suíte',     3, 250.00, 'manutenção'),
+('104', 'Casal',     2, 180.00, 'disponível'),
+('105', 'Solteiro',  1, 95.00,  'disponível');
