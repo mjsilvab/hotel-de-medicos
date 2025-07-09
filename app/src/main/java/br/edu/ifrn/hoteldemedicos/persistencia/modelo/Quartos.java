@@ -32,8 +32,6 @@ public class Quartos {
     @Column(name = "capacidade")
     private Integer capacidade;
 
-    @Column(name = "preco", precision = 10, scale = 2)
-    private Double preco;
 
     @Column(name = "status", length = 20)
     private String status;
